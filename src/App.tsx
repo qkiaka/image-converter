@@ -10,9 +10,7 @@ import {
   RefreshCw,
   Check,
   ArrowRight,
-  Sliders,
   X,
-  FileCode,
 } from "lucide-react";
 
 // 対応フォーマット定義
